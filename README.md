@@ -1,2 +1,9 @@
-# Mini-Proyecto-Scrum-Grupo-3
-Objetivo general: Aplicar Scrum, Github y desarrollo web colaborativo para entregar un producto funcional sencillo, trabajando en equipo, simulando una planificación ágil y dejando evidencia de lo aprendido.
+Nuestros equipo está compuesto por 5 integrantes, cada con un rol para garantizar el éxito de nuestro proyecto.
+
+
+| Integrantes        | Rol                                                  |
+| ------------------ | -----------------------------------------------------|
+| Gianluca Revilla   | **Scrum Master** (modera y organiza el trabajo)      |
+| Rodrigo Guerra     | Product Owner (define funcionalidades y prioridades) |
+| Matías, Gago       | Developers (programan, validan y diseñan)            |
+| Giovanni Honorario | Developers (programan, validan y diseñan)            |

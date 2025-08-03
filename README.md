@@ -35,14 +35,16 @@
   - Definió el objetivo del proyecto
   - Priorizó tareas en el Sprint Backlog (Trello)
   - Aprobó funcionalidades completadas
-- **Matías Gago (Developer):**
-  - Programó el formulario HTML
+- **Matías Sicha (Developer):**
   - Aplicó estilos con CSS
   - Agregó validaciones básicas
 - **Giovanni Honorario (Developer):**
   - Programó la captura de respuestas en JS
   - Mostró resultados en una tabla dinámica
   - Simuló almacenamiento local tipo API
+-  **Carlos Gago (Developer):**
+  - Programó el formulario HTML
+  - Agregó validaciones básicas
 
 ---
 

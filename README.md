@@ -8,9 +8,9 @@
 | ------------------ | -----------------------------------------------------|
 | Gianluca Revilla   | **Scrum Master** (Modera y organiza el trabajo)      |
 | Rodrigo Guerra     | Product Owner (Define funcionalidades y prioridades) |
-| Matías Sicha       | Developer (CSS)                                      |
+| Matías Sicha       | Developer (HTML)                                     |
 | Giovanni Honorario | Developer (API/JS)                                   |
-| Carlos Gago        | Developer (HTML)                                     |
+| Carlos Gago        | Developer (CSS)                                      |
 
 ---
 
@@ -41,14 +41,14 @@ Se estableció una visión clara del producto basada en la funcionalidad mínima
   - Definió el objetivo del proyecto  
   - Priorizó tareas en el Sprint Backlog (Trello)  
   - Aprobó funcionalidades completadas  
-- **Matías Sicha (Developer):**
+- **Carlos Gago (Developer):**
   - Aplicó estilos con CSS  
   - Agregó validaciones básicas  
 - **Giovanni Honorario (Developer):**
   - Programó la captura de respuestas en JS  
   - Mostró resultados en una tabla dinámica  
   - Simuló almacenamiento local tipo API  
-- **Carlos Gago (Developer):**
+- **Matías Sicha (Developer):**
   - Programó el formulario HTML  
   - Agregó validaciones básicas  
 

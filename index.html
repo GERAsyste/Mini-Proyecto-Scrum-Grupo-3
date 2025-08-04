@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encuesta de Opinión</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <h1>Encuesta de Opinión</h1>
+
+    <form id="formEncuesta">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" required>
+
+        <label for="correo">Correo electrónico:</label>
+        <input type="email" id="correo" required>
+
+        <label>¿Qué tan satisfecho estás con nuestro producto?</label>
+        <select id="satisfaccion" required>
+            <option value="">Selecciona una opción</option>
+            <option value="Muy satisfecho">Muy satisfecho</option>
+            <option value="Satisfecho">Satisfecho</option>
+            <option value="Neutral">Neutral</option>
+            <option value="Insatisfecho">Insatisfecho</option>
+            <option value="Muy insatisfecho">Muy insatisfecho</option>
+        </select>
+
+        <label>¿Nos recomendarías?</label>
+        <label><input type="radio" name="recomienda" value="Sí" required> Sí</label>
+        <label><input type="radio" name="recomienda" value="No"> No</label>
+
+        <label for="comentario">Comentarios adicionales:</label>
+        <textarea id="comentario" rows="4" placeholder="Escribe aquí..."></textarea>
+
+        <input type="submit" value="Enviar opinión">
+    </form>
+
+    <div class="success-message" id="mensaje"></div>
+
+    <h2>Opiniones registradas</h2>
+    <ul id="listaOpiniones"></ul>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

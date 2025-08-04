@@ -44,7 +44,7 @@ Se estableció una visión clara del producto basada en la funcionalidad mínima
 - **Carlos Gago (Developer):**
   - Aplicó estilos con CSS  
   - Agregó validaciones básicas  
-- **Giovanni Honorario (Developer):**
+- **Giovanni Honorio (Developer):**
   - Programó la captura de respuestas en JS  
   - Mostró resultados en una tabla dinámica  
   - Simuló almacenamiento local tipo API  

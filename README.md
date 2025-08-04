@@ -14,13 +14,19 @@
 
 ---
 
+## 📌 Planificación del Proyecto
+
+Se estableció una visión clara del producto basada en la funcionalidad mínima viable (MVP). El Product Owner definió los objetivos funcionales, organizó las funcionalidades en un backlog priorizado y coordinó la planificación del sprint. Se utilizó Trello como herramienta de gestión para dividir el trabajo en tareas específicas y distribuir responsabilidades dentro del equipo. Esta planificación permitió un desarrollo ágil y ordenado en tiempo limitado.
+
+---
+
 ## 🔧 Tecnologías Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- GitHub Pages
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+- GitHub Pages  
 - Metodología Scrum
 
 ---
@@ -28,23 +34,23 @@
 ## 🧩 Tareas realizadas por cada integrante
 
 - **Gianluca Revilla (Scrum Master):**
-  - Organizó el equipo
-  - Configuró el repositorio
-  - Activó GitHub Pages
+  - Organizó el equipo  
+  - Configuró el repositorio  
+  - Activó GitHub Pages  
 - **Rodrigo Guerra (Product Owner):**
-  - Definió el objetivo del proyecto
-  - Priorizó tareas en el Sprint Backlog (Trello)
-  - Aprobó funcionalidades completadas
+  - Definió el objetivo del proyecto  
+  - Priorizó tareas en el Sprint Backlog (Trello)  
+  - Aprobó funcionalidades completadas  
 - **Matías Sicha (Developer):**
-  - Aplicó estilos con CSS
-  - Agregó validaciones básicas
+  - Aplicó estilos con CSS  
+  - Agregó validaciones básicas  
 - **Giovanni Honorario (Developer):**
-  - Programó la captura de respuestas en JS
-  - Mostró resultados en una tabla dinámica
-  - Simuló almacenamiento local tipo API
--  **Carlos Gago (Developer):**
-  - Programó el formulario HTML
-  - Agregó validaciones básicas
+  - Programó la captura de respuestas en JS  
+  - Mostró resultados en una tabla dinámica  
+  - Simuló almacenamiento local tipo API  
+- **Carlos Gago (Developer):**
+  - Programó el formulario HTML  
+  - Agregó validaciones básicas  
 
 ---
 
@@ -52,6 +58,8 @@
 
 Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y `funcionalidad` al modificar el mismo archivo `index.html`.  
 ✅ Lo resolvimos revisando los cambios línea por línea y aceptando partes combinadas en el Pull Request.
+
+---
 
 ## 🌐 Enlace a GitHub Pages
 
@@ -67,7 +75,7 @@ Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y
 
 ## 📚 Qué aprendimos
 
-- Aplicar Scrum en un proyecto real, incluso en un solo día
-- Usar ramas, pull requests y resolver conflictos en GitHub
-- Crear formularios y validar campos con JavaScript
+- Aplicar Scrum en un proyecto real, incluso en un solo día  
+- Usar ramas, pull requests y resolver conflictos en GitHub  
+- Crear formularios y validar campos con JavaScript  
 - Trabajar en equipo de forma colaborativa y organizada

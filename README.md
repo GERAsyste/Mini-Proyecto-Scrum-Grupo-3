@@ -73,7 +73,7 @@ Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y
 ---
 ## 🎥 Video Explicativo
 
-👉 [Ver video en Google Drive](Aqui debe estar el link)
+👉 [Ver video en Google Drive](https://drive.google.com/drive/folders/1lw6BPwma4_yTsxzeq1EDwnRhzfNjiiil?usp=sharing)
 
 ---
 

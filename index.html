@@ -40,29 +40,7 @@
 
     <div class="success-message" id="mensaje"></div>
 
-    <script>
-        const form = document.getElementById('formEncuesta');
-        const mensaje = document.getElementById('mensaje');
-
-        form.addEventListener('submit', function(e) {
-            e.preventDefault();
-
-            const nombre = document.getElementById('nombre').value;
-            const correo = document.getElementById('correo').value;
-            const satisfaccion = document.getElementById('satisfaccion').value;
-            const recomienda = document.querySelector('input[name="recomienda"]:checked')?.value || '';
-            const comentario = document.getElementById('comentario').value;
-
-            const opinion = { nombre, correo, satisfaccion, recomienda, comentario };
-
-            let respuestas = JSON.parse(localStorage.getItem("opiniones")) || [];
-            respuestas.push(opinion);
-            localStorage.setItem("opiniones", JSON.stringify(respuestas));
-
-            mensaje.textContent = "✅ ¡Gracias por tu opinión!";
-            form.reset();
-        });
-    </script>
+    <script src="script.js"></script>
 
 </body>
 </html>

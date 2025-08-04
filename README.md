@@ -55,7 +55,7 @@ Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y
 
 ## 🌐 Enlace a GitHub Pages
 
-👉 [Ver encuesta en vivo]([https://gerasyste.github.io/Mini-Proyecto-Scrum-Grupo-3/)]
+👉 [Ver encuesta en vivo](https://gerasyste.github.io/Mini-Proyecto-Scrum-Grupo-3/)
 
 ---
 

@@ -9,7 +9,7 @@
 | Gianluca Revilla   | **Scrum Master** (Modera y organiza el trabajo)      |
 | Rodrigo Guerra     | Product Owner (Define funcionalidades y prioridades) |
 | Matías Sicha       | Developer (CSS)                                      |
-| Giovanni Honorario | Developer (API: Simula backend con JSON)             |
+| Giovanni Honorario | Developer (API/JS)                                   |
 | Carlos Gago        | Developer (HTML)                                     |
 
 ---

@@ -66,7 +66,11 @@ Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y
 👉 [Ver encuesta en vivo](https://gerasyste.github.io/Mini-Proyecto-Scrum-Grupo-3/)
 
 ---
+## 💻 Enlace a Trello
 
+👉 [Trello](https://trello.com/invite/b/68900bc67fb9f89963b26141/ATTIa3524cda0a0dc0af882ddd666d15483bC8D2EFB4/📝-encuesta-de-opinion-mini-proyecto-colaborativo-grupo-3)
+
+---
 ## 🎥 Video Explicativo
 
 👉 [Ver video en Google Drive](Aqui debe estar el link)

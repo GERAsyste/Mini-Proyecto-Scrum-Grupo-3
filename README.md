@@ -1,4 +1,4 @@
-# 📝 Encuesta de Opinión – Mini Proyecto Colaborativo (Grupo 3)
+# Trabajo colaborativo Scrum XP (EXTREME PROGRAMING) (Grupo 3)
 
 ---
 
@@ -68,7 +68,7 @@ Tuvimos un **conflicto de fusión (merge conflict)** entre las ramas `diseño` y
 ---
 ## 💻 Enlace a Trello
 
-👉 [Trello](https://trello.com/invite/b/68900bc67fb9f89963b26141/ATTIa3524cda0a0dc0af882ddd666d15483bC8D2EFB4/📝-encuesta-de-opinion-mini-proyecto-colaborativo-grupo-3)
+👉 [Trello](https://trello.com/invite/b/689379bf5c2c115003ac4084/ATTI1eb5eaf31fe65030eeda05a2737babfa6907B737/trabajo-colaborativo-scrum-xp-extreme-programing)
 
 ---
 ## 🎥 Video Explicativo
